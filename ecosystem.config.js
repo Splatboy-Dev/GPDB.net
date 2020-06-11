@@ -3,7 +3,7 @@
 module.exports = {
   apps : [{
     // Options reference: https://pm2.io/doc/en/runtime/reference/ecosystem-file/
-    name: 'Sourcebot',
+    name: 'GeneralPurposeDiscordBot',
     script: './bin/www',
     instances: 1,
     autorestart: true,
