@@ -1,4 +1,5 @@
 # SourceBot Website
+[![Run on Repl.it](https://repl.it/badge/github/Splatboy-Dev/GPDB.net)](https://repl.it/github/Splatboy-Dev/GPDB.net)
 <div align="center">
 <img src="https://i.imgur.com/qwt4PFB.png" align="center" alt="Logo">
 <br><br>
